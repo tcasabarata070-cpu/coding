@@ -1,0 +1,9 @@
+.f.l{
+    text-align: center;
+    color: pink;
+    font-family: Arial;
+}
+.f.l:hover{
+    color: violet;
+    font-size: 42px;
+}
