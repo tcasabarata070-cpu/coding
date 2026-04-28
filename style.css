@@ -2,7 +2,7 @@
     text-align: center;
     color: pink;
     font-family: Arial;
-    transition: 0.3s;
+    transition: 3s;
 }
 .f_l:hover{
     color: violet;
